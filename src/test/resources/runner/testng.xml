@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Jenkins ">
+
+
+	<test name="google launch">
+		<classes>
+
+			<class name="testCases.launchChromeTest" />
+
+		</classes>
+	</test> <!-- googel launch -->
+	
+	
+	
+
+
+
+</suite> <!-- jenkins unserstanding-->
